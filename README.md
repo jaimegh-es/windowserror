@@ -1,3 +1,5 @@
+> [!WARNING]
+> This project is no longer maintained or has been moved to [github.com/InledGroup](https://github.com/InledGroup) or [github.com/Inled-Pulsar-OS](https://github.com/Inled-Pulsar-OS)
 # Windows Error
 Una preciosa app para Mac para recordar los errores de Windows que tan alegres nos hacen
 
